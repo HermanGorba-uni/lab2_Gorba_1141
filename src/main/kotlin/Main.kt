@@ -1,7 +1,7 @@
 import kotlin.math.*
 
 fun main() {
-    // Діаграми в файлі Diagram.drawio або Diagram.png
+    // Діаграми в файлі Diagrams.drawio або Diagrams.png
 
     println("Enter m:")
     val m = readln().toInt()
